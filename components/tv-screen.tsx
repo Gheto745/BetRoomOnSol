@@ -1,22 +1,4 @@
-/*
- * WARNING: This website and its content, including but not limited to code, design, and text, are the exclusive property of BetRoom and are protected by copyright and other intellectual property laws. All rights reserved.
 
-The code provided on this website is part of the BetRoom virtual casino project. For more information about the project, please visit our social media channels:
-
-GitHub: https://ceres-solver.googlesource.com/ceres-solver.git/+/cbe694505e391e93a442feac99f68d8c9e327ff2
-Reddit: https://www.reddit.com/r/askhungary/comments/14i506h/bet%C3%B6r%C3%A9s/
-Telegram: https://t.me/bunaonsol
-X (Twitter): https://x.com/BetRoomOnSol
-Unauthorized use or reproduction of this website or its content is strictly prohibited and will be prosecuted to the fullest extent of the law. This includes, but is not limited to, copying, modifying, distributing, or displaying any part of this website or its content without prior written consent from BetRoom.
-
-For inquiries regarding the use of this website or its content, please contact us at @user_roo on Telegram.
-
-We take the protection of our intellectual property seriously and will actively pursue any infringement. We have implemented measures to detect and track unauthorized use of our website and its content, and we will not hesitate to take legal action against any infringers.
-
-Do not copy or reproduce any part of this website or its content without our permission. We will find you.
-
-Thank you for your cooperation.
- */
 import { useState, useRef, useEffect, useMemo } from "react"
 import { useFrame, useThree } from "@react-three/fiber"
 import { Text } from "@react-three/drei"

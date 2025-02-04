@@ -3,8 +3,8 @@
 
 The code provided on this website is part of the BetRoom virtual casino project. For more information about the project, please visit our social media channels:
 
-GitHub: https://ceres-solver.googlesource.com/ceres-solver.git/+/cbe694505e391e93a442feac99f68d8c9e327ff2
-Reddit: https://www.reddit.com/r/askhungary/comments/14i506h/bet%C3%B6r%C3%A9s/
+GitHub: https://github.com/Gheto745/BetRoomOnSol
+Reddit: https://www.reddit.com/r/GamblingRoom/
 Telegram:  https://t.me/BetRoomOnSol
 X (Twitter): https://x.com/BetRoomOnSol
 

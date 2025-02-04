@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .perspective {
+    perspective: 1000px;
+  }
+}
+
+.text-shadow-neon-pink {
+  text-shadow:
+    0 0 7px rgba(255, 192, 203, 0.7),
+    0 0 10px rgba(255, 192, 203, 0.7),
+    0 0 21px rgba(255, 192, 203, 0.7),
+    0 0 42px rgba(255, 20, 147, 0.7),
+    0 0 82px rgba(255, 20, 147, 0.5),
+    0 0 92px rgba(255, 20, 147, 0.5),
+    0 0 102px rgba(255, 20, 147, 0.5),
+    0 0 151px rgba(255, 20, 147, 0.5);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+@font-face {
+  font-family: "Display";
+  src: url("/fonts/display.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Geist";
+  src: url("/fonts/Geist-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
